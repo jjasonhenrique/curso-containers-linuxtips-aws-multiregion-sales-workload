@@ -27,6 +27,6 @@ ssm_private_subnet_2 = "/linuxtips-multiregion/vpc/private/sa-east-1b"
 ssm_private_subnet_3 = "/linuxtips-multiregion/vpc/private/sa-east-1c"
 
 ssm_alb      = "/sales-cluster/lb/internal/arn"
-ssm_listener = "/sales-cluster/lb/internal/https/listener"
+ssm_listener = "/sales-cluster/lb/internal/listener"
 
 cluster_name = "sales-cluster"
